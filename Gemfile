@@ -27,7 +27,6 @@ gem 'puma', '>= 5.0'
 gem 'rack-cors'
 gem 'tzinfo-data', platforms: %i[windows jruby]
 
-
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', require: false
 
